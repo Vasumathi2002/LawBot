@@ -1,5 +1,5 @@
 # LawBot
-
+Demo : https://drive.google.com/file/d/1oxudknzPrwmtIPhfD0SlzmlqOkV8CWKL/view?usp=sharing
 🔍 OVERVIEW
 
 This project collects district-level citizen feedback about justice, administration, and local governance, performs sentiment and NLP-based scoring, stores it in a MySQL database, and visualizes it through Flask-powered dashboards using Plotly, Seaborn, and WordCloud.
